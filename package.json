@@ -1,0 +1,25 @@
+{
+  "name": "mychatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frontend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genosynth/mychatapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genosynth/mychatapp/issues"
+  },
+  "homepage": "https://github.com/genosynth/mychatapp#readme",
+  "dependencies": {
+    "finalhandler": "^1.1.2",
+    "serve-static": "^1.14.1",
+    "websocket": "^1.0.33"
+  }
+}
